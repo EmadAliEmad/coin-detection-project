@@ -11,3 +11,12 @@ This project detects coins in an image using OpenCV and estimates their total va
 1. Clone this repository:
    ```bash
    git clone https://github.com/EmadAliEmad/coin-detection-project.git
+
+
+## How to Run
+
+1. Ensure that you have a folder containing images of coins (e.g., `coin_photographs/`).
+2. Run the script:
+   ```bash
+   python detect_coins.py --image_path path_to_image.jpg
+
